@@ -58,17 +58,6 @@ To run the Rhythm application locally, follow these steps:
    cd RaspBerry-Rhythm
    ```
 
-3. Install dependencies:
-
-   ```bash
-   # Add any additional setup commands here
-   ```
-
-4. Run the application:
-
-   ```bash
-   # Add commands to start the application here
-   ```
 
 
 

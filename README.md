@@ -1,8 +1,13 @@
+![WhatsApp Image 2023-12-10 at 8 22 48 AM](https://github.com/VESITAIDS25/RaspBerry-Rhythm/assets/92782099/da1ef427-1462-4e59-bd3c-567c5847ab49)
+
 # Rhythm - Preventive Cardiovascular Disease (CVD) Health Care Application
 
 ## Project Overview
 
 Welcome to Rhythm, a preventive healthcare application focused on Cardiovascular Disease (CVD) management. This application is designed to assist users in monitoring and improving their cardiovascular health through various features and functionalities.
+
+![WhatsApp Image 2023-12-10 at 1 32 51 PM](https://github.com/VESITAIDS25/RaspBerry-Rhythm/assets/92782099/6f570c48-cf66-4f71-b1f9-53a50c57b8bc)
+
 
 ## Team RaspBerry
 

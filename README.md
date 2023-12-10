@@ -8,6 +8,8 @@ Welcome to Rhythm, a preventive healthcare application focused on Cardiovascular
 
 ![WhatsApp Image 2023-12-10 at 1 32 51 PM](https://github.com/VESITAIDS25/RaspBerry-Rhythm/assets/92782099/6f570c48-cf66-4f71-b1f9-53a50c57b8bc)
 
+![WhatsApp Image 2023-12-10 at 8 41 23 AM (1)](https://github.com/VESITAIDS25/RaspBerry-Rhythm/assets/92782099/c172b71b-ca89-4536-a57e-b6dbc91ebdf9)
+![WhatsApp Image 2023-12-10 at 8 41 24 AM](https://github.com/VESITAIDS25/RaspBerry-Rhythm/assets/92782099/f6fcf4c9-c39b-4adb-b5dc-727019fdc0b9)
 
 ## Team RaspBerry
 
